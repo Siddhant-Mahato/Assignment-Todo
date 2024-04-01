@@ -23,4 +23,8 @@ Now you'll be able to work on the Project
 
 4️⃣ Won't clear the task as Local Storage concept is used
 
+🎯 **Hosted Link**
+
+🚀✅ **https://siddahant-task-creator-website.netlify.app/**
+  
 🙏 Thank you
