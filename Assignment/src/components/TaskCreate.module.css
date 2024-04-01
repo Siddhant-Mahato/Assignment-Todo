@@ -1,0 +1,23 @@
+.in{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 500px) {
+  .in {
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn {
+  display: flex;
+  justify-content: center; /* Horizontally center content */
+  align-items: center; /* Vertically center content */
+  width: 120px;
+  text-align: center;
+  font-size: 80px; /* Adjust the font size as needed */
+  padding: 12px 24px; /* Adjust padding as needed */
+}
+}
